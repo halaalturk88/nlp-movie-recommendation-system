@@ -1,0 +1,116 @@
+body {
+    background-color: #141414;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 60px;
+    margin: 0;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+}
+
+h1 {
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-size: 20px;
+    color: #cccccc;
+    margin-bottom: 30px;
+}
+
+form {
+    margin-bottom: 30px;
+}
+
+input {
+    width: 60%;
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    font-size: 18px;
+}
+
+button {
+    padding: 15px 30px;
+    border-radius: 10px;
+    border: none;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+button:hover {
+    opacity: 0.85;
+}
+
+.matched-box {
+    margin-top: 30px;
+    padding: 15px;
+    background-color: #1f1f1f;
+    border-radius: 12px;
+}
+
+.matched-box h2 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.results {
+    margin-top: 25px;
+}
+
+.results h2 {
+    margin-bottom: 20px;
+}
+
+.movie-card {
+    background-color: #222222;
+    margin: 15px auto;
+    padding: 18px;
+    border-radius: 12px;
+    width: 80%;
+    text-align: left;
+}
+
+.movie-card h3 {
+    margin: 0 0 10px 0;
+    color: white;
+    font-size: 24px;
+}
+
+.movie-card p {
+    margin: 0 0 10px 0;
+    color: #dddddd;
+    font-size: 18px;
+}
+
+.similarity-progress {
+    width: 100%;
+    height: 16px;
+    margin-top: 8px;
+}
+
+@media (max-width: 700px) {
+    .container {
+        width: 90%;
+    }
+
+    input {
+        width: 90%;
+        margin-bottom: 10px;
+    }
+
+    button {
+        width: 90%;
+    }
+
+    .movie-card {
+        width: 90%;
+    }
+}
