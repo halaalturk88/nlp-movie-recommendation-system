@@ -86,3 +86,11 @@ Created as an NLP university course project. Credit and individual contributions
 **Domain:** Natural Language Processing (NLP) & Recommendation Systems
 
 This project was independently developed as part of a university coursework assignment. I was responsible for implementing the NLP-based recommendation system, integrating the recommendation logic with a Flask web application, and developing the user interface.
+
+
+## Application Preview
+
+The following screenshot shows the movie recommendation web application running locally.
+
+![Movie Recommendation System](docs/Screenshot%202026-10-31%20003127.png)
+  
