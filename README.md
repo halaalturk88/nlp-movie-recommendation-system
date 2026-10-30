@@ -78,3 +78,11 @@ Open `http://localhost:10000`. Run it from the repository's root directory becau
 Created as an NLP university course project. Credit and individual contributions should reflect the actual team arrangement.
 
 **Verification note:** The original code was reviewed for structure and syntax, but the packaged project was not end-to-end tested with the two TMDB datasets.
+
+## Project Context
+
+**Project Type:** Individual Academic Project  
+**Role:** Sole Developer  
+**Domain:** Natural Language Processing (NLP) & Recommendation Systems
+
+This project was independently developed as part of a university coursework assignment. I was responsible for implementing the NLP-based recommendation system, integrating the recommendation logic with a Flask web application, and developing the user interface.
