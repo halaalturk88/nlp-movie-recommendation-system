@@ -1,0 +1,40 @@
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets and environment variables
+.env
+.env.*
+*.key
+
+# Large datasets and generated models
+datasets/*.csv
+datasets/*.zip
+datasets/*.pkl
+datasets/*.joblib
+data/
+models/
+*.pkl
+*.joblib
+
+# Local outputs
+outputs/
+logs/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
